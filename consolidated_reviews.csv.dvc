@@ -1,0 +1,5 @@
+outs:
+- md5: 8f024462a8a50413a795bed7b300f5a4
+  size: 575967
+  hash: md5
+  path: consolidated_reviews.csv
